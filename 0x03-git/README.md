@@ -1,1 +1,1 @@
-no dejar en blanco
+se cambia
